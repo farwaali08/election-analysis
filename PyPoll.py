@@ -9,7 +9,7 @@
 import csv
 import os
 
-file_to_load = os.path.join("election-analysis","election_results.csv")
+file_to_load = os.path.join("Elections Analysis", "election_results.csv")
 with open(file_to_load) as election_data:
         print(election_data)
 # Assign a variable to save the file to a path.
