@@ -1,5 +1,9 @@
 # election-analysis
 
+
+![alt text](https://github.com/farwaali08/election-analysis/blob/b1b9ead30a91209ad88af31be0546a19e972f3fd/analysis/Counties.png)
+> Modified from [Source](https://coloradosun.com/2021/06/09/colorado-vaccination-rates/)
+
 ## Performing an Election Audit with Python
 
 All the relevant files for this analysis can be found within the "analysis" folder. Please refer to the quick links below:
