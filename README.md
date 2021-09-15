@@ -18,7 +18,7 @@ All the relevant files for this analysis can be found within the "analysis" fold
 
 ### **OVERVIEW**
 
-This project is in collaboration with the Colorado Board of Elections
+This project is in collaboration with the "Colorado Board of Elections".
 
 
 ### **RESOURCES**
