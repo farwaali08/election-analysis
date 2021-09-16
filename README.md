@@ -31,7 +31,7 @@ This project is in collaboration with the "Colorado Board of Elections" to compl
 3. The winner of the election based on the popular vote
 
 
-The original script was modified to include regional statistics as well:
+The original script was modified to include some regional statistics as well:
 
 1. The voter turnout for each county
 
@@ -71,3 +71,8 @@ Regionally, the largest turnout (by number) was observed in Denver county--nearl
 
 ### **SUMMARY**
 
+The original script was successful in delivering a rapid analysis of the election results, making it an efficient alternative to Excel, and ideal for larger data sets. 
+
+With small modifications, the report was also able to include regional data in the output, which can provide valuable insights for future elections. For example, identifying counties with low voter turnout highlights where resources must be allocated to boost turnout in the future. 
+
+This also demonstrates the flexibility of the the script: not only can it be used on larger data sets (or larger elections,) some modifications can greatly expand the range of information that can be made available. One example includes determining how the candidates fared in each county (which can be done by adding a conditional ("if") statement).
