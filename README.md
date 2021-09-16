@@ -16,7 +16,7 @@ All the relevant files for this analysis can be found within the "analysis" fold
 
 
 
-### **OVERVIEW**
+## **OVERVIEW**
 
 This project is in collaboration with the "Colorado Board of Elections" to complete an audit of a recent congressional election. A [script](https://github.com/farwaali08/election-analysis/blob/7d21a6e0653389dd9c168989e4d69f00f83b0ac5/analysis/PyPoll_Challenge.py) was created to run an analysis on electoral data, with the main objective being to generate a vote count report with the following information:
 
@@ -40,13 +40,13 @@ The original script was modified to include some regional statistics as well:
 3. The county with the highest turnout
 
 
-### **RESOURCES**
+## **RESOURCES**
 
 Software: Python 3.9.7, Visual Studio Code 1.60.0 
 
 Data: [election_results.csv](https://github.com/farwaali08/election-analysis/blob/7d21a6e0653389dd9c168989e4d69f00f83b0ac5/analysis/election_results.csv)
 
-### **RESULTS**
+## **RESULTS**
 
 The election results are below:
 
@@ -54,7 +54,7 @@ The election results are below:
 
 The script is programmed to generate a text file of the results, which can be found in the "analysis" folder, or by clicking the link in the introduction. The data indicates that:
 
-* 369,111 votes were cast in this election
+* `369,111` votes were cast in this election
 
 * The votes were allocated between the following candidates:
 
@@ -69,7 +69,7 @@ The script is programmed to generate a text file of the results, which can be fo
 
 Regionally, the largest turnout (by number) was observed in Denver county--nearly `83%` of all votes cast in this election were cast in Denver.
 
-### **SUMMARY**
+## **SUMMARY**
 
 The original script was successful in delivering a rapid analysis of the election results, making it an efficient alternative to Excel, and ideal for larger data sets. 
 
