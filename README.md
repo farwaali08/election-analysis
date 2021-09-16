@@ -80,3 +80,5 @@ This also demonstrates the flexibility and scalability of the the script: not on
  The script's capabilities are not limited to this election, or even congressional elections in general. For other elections types, modifying the parameters (e.g. "county" to "state") would produce similar results.
 
 For a more thorough analysis, another suggestion would be to investigate the voting methods by region. This would require Ballot ID information, sorted by type (mail-in ballots, punch cards, or DRE machines,) and then cross-referenced with the frequency of each type by region. This may uncover why turnout is lower in certain regions, and whether there are access barriers that need to be addressed.
+
+In short, this script is a powerful tool that will vastly improve this auditing process.
