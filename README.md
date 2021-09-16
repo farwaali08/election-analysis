@@ -41,7 +41,11 @@ Data: [election_results.csv](https://github.com/farwaali08/election-analysis/blo
 
 ### **RESULTS**
 
+The election resulst are below:
 
+![alt text](https://github.com/farwaali08/election-analysis/blob/95a3750fe8da32aea512a84f10e19d1302f18898/analysis/election%20results.png)
+
+The script is programmed to generate a text file of the results, which can be found in the "analysis" folder, or by clicking the link abo
 
 ### **SUMMARY**
 
