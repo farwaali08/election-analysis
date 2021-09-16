@@ -54,7 +54,7 @@ The election results are below:
 
 The script is programmed to generate a text file of the results, which can be found in the "analysis" folder, or by clicking the link in the introduction. The data indicates that:
 
-* `369,111` votes were cast in this election
+* `369,711` votes were cast in this election
 
 * The votes were allocated between the following candidates:
 
