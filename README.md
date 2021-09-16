@@ -18,7 +18,19 @@ All the relevant files for this analysis can be found within the "analysis" fold
 
 ### **OVERVIEW**
 
-This project is in collaboration with the "Colorado Board of Elections".
+This project is in collaboration with the "Colorado Board of Elections" to complete an audit of a recent congressional election. The main objective was to generate a vote count report containing the following information:
+
+1. The total number of votes cast
+2. A complete list of candidates who received votes
+  a. The total votes received for each candidate
+  b. The percentage of votes won by each candidate
+4. The winner of the election based on the popular vote
+
+The following information was also collected to supplement this report:
+
+1. The voter turnout for each county
+2. The percentage of votes from each county out of the total count
+3. The county with the highest turnout
 
 
 ### **RESOURCES**
