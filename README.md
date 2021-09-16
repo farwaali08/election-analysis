@@ -22,8 +22,8 @@ This project is in collaboration with the "Colorado Board of Elections" to compl
 
 1. The total number of votes cast
 2. A complete list of candidates who received votes
-  a. The total votes received for each candidate
-  b. The percentage of votes won by each candidate
+   1. The total votes received for each candidate 
+   2. The percentage of votes won by each candidate
 4. The winner of the election based on the popular vote
 
 The following information was also collected to supplement this report:
