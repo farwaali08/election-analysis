@@ -41,11 +41,18 @@ Data: [election_results.csv](https://github.com/farwaali08/election-analysis/blo
 
 ### **RESULTS**
 
-The election resulst are below:
+The election results are below:
 
 ![alt text](https://github.com/farwaali08/election-analysis/blob/95a3750fe8da32aea512a84f10e19d1302f18898/analysis/election%20results.png)
 
-The script is programmed to generate a text file of the results, which can be found in the "analysis" folder, or by clicking the link abo
+The script is programmed to generate a text file of the results, which can be found in the "analysis" folder, or by clicking the link in the introduction. The data indicates that:
+
+* 369,111 votes were cast in this election
+* The votes were allocated between the following candidates:
+  - Charles Casper Stockham : **23.0%** (85, 213)
+  - Diana DeGette:            **73.8%** (272,892) 
+  - Raymond Anthony Doane:    **3.1%** (11,606) 
+*  
 
 ### **SUMMARY**
 
