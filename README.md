@@ -58,7 +58,7 @@ The script is programmed to generate a text file of the results, which can be fo
 
 * The votes were allocated between the following candidates:
 
-  - Charles Casper Stockham : `23.0% (85, 213)`
+  - Charles Casper Stockham : `23.0% (85,213)`
   
   - Diana DeGette:            `73.8% (272,892)` 
   
