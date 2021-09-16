@@ -73,6 +73,10 @@ Regionally, the largest turnout (by number) was observed in Denver county--nearl
 
 The original script was successful in delivering a rapid analysis of the election results, making it an efficient alternative to Excel, and ideal for larger data sets. 
 
-With small modifications, the report was also able to include regional data in the output, which can provide valuable insights for future elections. For example, identifying counties with low voter turnout highlights where resources must be allocated to boost turnout in the future. 
+With small modifications, the report was also able to include regional data in the output, which can provide valuable insights for future elections. For example, identifying counties with low voter turnout highlights where resources should be allocated to boost turnout in the future. 
 
-This also demonstrates the flexibility of the the script: not only can it be used on larger data sets (or larger elections,) some modifications can greatly expand the range of information that can be made available. One example includes determining how the candidates fared in each county (which can be done by adding a conditional ("if") statement).
+This also demonstrates the flexibility and scalability of the the script: not only can it be used on larger data sets (or for larger elections,) some modifications can greatly expand the range of information that can be made available. One example includes determining how the candidates fared in each county (which can be done by adding a conditional ("if") statement). This in turn provides valuable insights to the candidates. 
+
+ The script's capabilities are not limited to this election, or even congressional elections in general. For other elections types, modifying the parameters (e.g. "county" to "state") would produce similar results.
+
+For a more thorough analysis, another suggestion would be to investigate the voting methods by region. This would require Ballot ID information, sorted by type (mail-in ballots, punch cards, or DRE machines,) and then cross-referenced with the frequency of each type by region. This may uncover why turnout is lower in certain regions, and whether there are access barriers that need to be addressed.
