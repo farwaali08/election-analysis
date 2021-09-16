@@ -18,7 +18,7 @@ All the relevant files for this analysis can be found within the "analysis" fold
 
 ### **OVERVIEW**
 
-This project is in collaboration with the "Colorado Board of Elections" to complete an audit of a recent congressional election. The main objective was to generate a vote count report containing the following information:
+This project is in collaboration with the "Colorado Board of Elections" to complete an audit of a recent congressional election. A [script](https://github.com/farwaali08/election-analysis/blob/7d21a6e0653389dd9c168989e4d69f00f83b0ac5/analysis/PyPoll_Challenge.py) was created to run an analysis on electoral data, with the main objective being to generate a vote count report with the following information:
 
 1. The total number of votes cast
 2. A complete list of candidates who received votes
@@ -26,7 +26,7 @@ This project is in collaboration with the "Colorado Board of Elections" to compl
    2. The percentage of votes won by each candidate
 4. The winner of the election based on the popular vote
 
-The following information was also collected to supplement this report:
+The original script was modified to include regional statistics as well:
 
 1. The voter turnout for each county
 2. The percentage of votes from each county out of the total count
@@ -52,7 +52,9 @@ The script is programmed to generate a text file of the results, which can be fo
   - Charles Casper Stockham : **23.0%** (85, 213)
   - Diana DeGette:            **73.8%** (272,892) 
   - Raymond Anthony Doane:    **3.1%** (11,606) 
-*  
+* Diana DeGette is the winner of the popular vote
+
+Regionally, the largest turnout (by number) was observed in Denver county--nearly 83% of all votes cast in this election were cast in Denver.
 
 ### **SUMMARY**
 
