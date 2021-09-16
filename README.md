@@ -58,16 +58,16 @@ The script is programmed to generate a text file of the results, which can be fo
 
 * The votes were allocated between the following candidates:
 
-  - Charles Casper Stockham : **23.0%** (85, 213)
+  - Charles Casper Stockham : `23.0% (85, 213)`
   
-  - Diana DeGette:            **73.8%** (272,892) 
+  - Diana DeGette:            `73.8% (272,892)` 
   
-  - Raymond Anthony Doane:    **3.1%** (11,606) 
+  - Raymond Anthony Doane:    `3.1% (11,606)` 
 
 * Diana DeGette is the winner of the popular vote
 
 
-Regionally, the largest turnout (by number) was observed in Denver county--nearly 83% of all votes cast in this election were cast in Denver.
+Regionally, the largest turnout (by number) was observed in Denver county--nearly `83%` of all votes cast in this election were cast in Denver.
 
 ### **SUMMARY**
 
